@@ -1,4 +1,4 @@
 # app-diplomado
 Repositorio diplomado
 Claudio Suau
-Patricio Montecinos
+Patricio Montecinos 1
